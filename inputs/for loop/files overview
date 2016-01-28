@@ -1,0 +1,20 @@
+Each file in this directory sums the numbers from a to b, where a,b are integers.
+
+Different examples will change small things such as variable names or the start and end points of a and b.
+
+File one: 
+	variable: currentSum
+	a: 1
+	b: 100
+File two: 
+	variable: currentSum
+	a: 0
+	b: 100
+File three: 
+	variable: currentSum
+	a: 7
+	b: 84
+File one: 
+	variable: theSum
+	a: 1
+	b: 100
